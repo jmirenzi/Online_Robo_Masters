@@ -1,0 +1,8 @@
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/html_api.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/create_image_browser.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/install.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/install/local.dir
+/mnt/c/Users/jmire/Documents/VS_Code_Projects/Online_Robo_Masters/First_Trimester/HW_3/build/CMakeFiles/install/strip.dir

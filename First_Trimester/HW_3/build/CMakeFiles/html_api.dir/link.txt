@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhtml_api.a CMakeFiles/html_api.dir/src/html_writer.cpp.o CMakeFiles/html_api.dir/src/image_browser.cpp.o
+/usr/bin/ranlib libhtml_api.a
